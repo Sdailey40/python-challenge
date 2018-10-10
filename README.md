@@ -1,7 +1,8 @@
 # python-challenge1
 Python homework for bootcamp
 
-PyBank
+# PyBank
+
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data (budget_data_1.csv and budget_data_2.csv). Each dataset is composed of two columns: Date and Revenue. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
@@ -26,7 +27,8 @@ Greatest Decrease in Revenue: Aug-12 ($-652794)
 Your final script must be able to handle any such similarly structured dataset in the future (your boss is going to give you more of these -- so your script has to work for the ones to come). In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 
-PyBoss
+# PyBoss
+
 In this challenge, you get to be the boss. You oversee hundreds of employees across the country developing Tuna 2.0, a world-changing snack food based on canned tuna fish. Alas, being the boss isn't all fun, games, and self-adulation. The company recently decided to purchase a new HR system, and unfortunately for you, the new system requires employee records be stored completely differently.
 
 Your task is to help bridge the gap by creating a Python script able to convert your employee records to the required format. Your script will need to do the following:
